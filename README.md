@@ -12,3 +12,6 @@ This MySQL-based project processes and analyzes real-world flight, delay, and pa
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/budapest-airport-data.git
+2. Run schema.sql to create the database.
+3. Insert data using data.sql.
+4. Run queries.sql for real-world analysis.
